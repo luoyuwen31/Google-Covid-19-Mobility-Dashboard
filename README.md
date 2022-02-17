@@ -1,5 +1,5 @@
 # Google Covid-19 Mobility Dashboard
-Dashboard avaliable at (https://public.tableau.com/app/profile/yuwen.luo1706/viz/DisneyDataAnalysis/Conclusion)
+Dashboard avaliable at (https://public.tableau.com/app/profile/yuwen.luo/viz/GoogleMobilityCOVID-19Dashboard/GoogleCovid-19MobilityDashboard#2)
 ## Methodology
 ### Daily Change and Moving Average for Six Sections:
 1. Retail and Recreation
